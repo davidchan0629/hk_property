@@ -8,3 +8,6 @@ This repository is intended to extract the historical domestic property data.
 
 2. HOS_2nd_market_web_scrapping.ipynb
 > Since without the proper csv file in the website, this python script extract the transaction records of HOS Secondary Market from the wesbite of [Housing Department](https://www.housingauthority.gov.hk/en/home-ownership/hos-secondary-market/transaction-records/index.html), ranged from 2020 to 2025
+
+3. hk_property.twb
+> Tableau dashboard in showing the summary of the HK property
